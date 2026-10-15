@@ -27,3 +27,6 @@
 Journal_Guide_Offline.html 可在支持本地HTML和JavaScript的浏览器离线打开。
 
 软件开发：苏裕盛 教授／医学博士
+
+## V1.3 Logo更新
+新增网页Logo、浏览器图标、iPhone主屏幕图标及192/512 PNG图标。上传时覆盖同名文件并加入全部图片。
